@@ -11,17 +11,17 @@
 * 电子邮箱:839018814@qq.com      
 * Github 地址:[https://github.com/lishengming00](https://github.com/Freshmansolo)
 ### 荣誉奖励
-*大一获得学校二等奖奖学金
-*大一获得新生杯篮球赛第一名
-*大三申请到校园一点通软件著作权
+* 大一获得学校二等奖奖学金
+* 大一获得新生杯篮球赛第一名
+* 大三申请到校园一点通软件著作权
 ### 个人技能
 * 熟悉使用 JavaScript 对网页进行动态操纵, 会使用 ajax 与后端通过 json 进行数据交互   
 * 了解 HTML5, 对 Web 标准、语义化相关概念有一定的理解   
 * 熟悉 Mysql 数据库相关的基本概念以及相关操作(查询、删除、更新)等
-*熟练掌握Java开发工具的运用
-*熟练掌握MySQL/SQL server/Hadoop数据库的应用
-*熟悉Windows/Linux系统的基本操作
-*熟练掌握c++/php/html5/python/Css/js等语言开发以及web开发
+* 熟练掌握Java开发工具的运用
+* 熟练掌握MySQL/SQL server/Hadoop数据库的应用
+* 熟悉Windows/Linux系统的基本操作
+* 熟练掌握c++/php/html5/python/Css/js等语言开发以及web开发
 ### 项目经历
 * viewPic   
   项目地址 :基于网络拓扑及告警的故障根因定位系统实现及算法研究
