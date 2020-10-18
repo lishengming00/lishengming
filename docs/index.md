@@ -9,7 +9,7 @@
 * 专业:计算机科学与技术学院
 * 手机号码:15630199851
 * 电子邮箱:839018814@qq.com      
-* Github 地址:[https://github.com/lishengming00](https://github.com/lishengming00)
+* Github 地址:[https://lishengming00.github.io/lishengming.github.io/](https://lishengming00.github.io/lishengming.github.io/)
 * 博客园地址：[https://home.cnblogs.com/u/lishengming00](https://home.cnblogs.com/u/lishengming00)
 ### 荣誉奖励
 * 大一获得学校二等奖奖学金
