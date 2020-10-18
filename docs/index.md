@@ -9,7 +9,8 @@
 * 专业:计算机科学与技术学院
 * 手机号码:15630199851
 * 电子邮箱:839018814@qq.com      
-* Github 地址:[https://github.com/lishengming00](https://github.com/Freshmansolo)
+* Github 地址:[https://github.com/lishengming00](https://github.com/lishengming00)
+* 博客园地址：[https://home.cnblogs.com/u/lishengming00](https://home.cnblogs.com/u/lishengming00)
 ### 荣誉奖励
 * 大一获得学校二等奖奖学金
 * 大一获得新生杯篮球赛第一名
